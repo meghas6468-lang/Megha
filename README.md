@@ -81,7 +81,7 @@ https://github.com/meghas6468-lang/Megha.git
 
 <p align="left">
 
-<a href="https://github.com/sachin0713">
+<a href="https://github.com/meghas6468-lang/megha.git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
