@@ -69,9 +69,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachin0713&show_icons=true&theme=tokyonight"/>
+https://github.com/meghas6468-lang/Megha.git
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin0713&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghas6468-lang&theme=tokyonight"/>
 
 </p>
 
